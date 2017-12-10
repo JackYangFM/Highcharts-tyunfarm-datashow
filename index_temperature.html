@@ -1,0 +1,266 @@
+ao <!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8"><link rel="icon" href="https://static.jianshukeji.com/highcharts/images/favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+*{margin:0;apdding:0;list-style:none;}
+.clear{clear:both;}
+body{background-image:linear-gradient(#0d0933 15%, #3c2aec 80%);font-family:"Microsoft Yahei";color:#fff;}
+/*data_top*/
+.data_top{position:relative;}
+.data_top h1{text-align:center;font-size:0.65rem;font-weight:normal;line-height:1.35rem;}
+.data_top .d_timebox{position:absolute;top:0.5rem;left:0.3rem;}
+.data_top .d_timebox img{float:left;}
+.data_top .d_timebox #localtime{font-size:0.16rem;line-height:0.45rem;padding:0 0.1rem;}
+
+/*data table*/
+.data_content{width:100%;}
+.data_content .d_table{height:4rem;margin:0.2rem;}
+
+/*footer*/
+.footer{font-size:0.14rem;color:#7c6df5;margin:0 0 0 0.35rem;}
+.footer span a{color:#a295ff;}
+
+</style>
+
+
+</head>
+
+<body>
+	<!--top-->
+	<div class="data_top">
+    	<h1>重庆市江津区石蟆镇-蟆城供销社基地-土壤温度</h1>
+        <div class="d_timebox">
+            <img src="images/clock.png" alt="time" width="45" height="45" />
+            <span id="localtime">2017-06-20 10:42:31</span>
+        </div>
+    </div>
+    
+    <!--data table-->
+    <div class="data_content">
+        <!--d_table line_chart start-->
+        <div class="d_table d_chart line_chart" id="container_st"></div>
+        <!--end d_table line_chart-->
+        
+        <!--d_table line_chart start-->
+        <div class="d_table d_chart bar_chart" id="container_lt"></div>
+        <!--end d_table line_chart-->
+
+    </div>
+
+    <!--footer start-->
+    <div class="footer">
+        <span>直播动态  DataView 提供运营动态直播、数据综合展示、设备监控预警等多种场景模板，稍加修改就能够直接服务于您的可视化需求。<a>数据来源: 透明云农场基地大数据平台</a></span>
+    </div>
+    <!--end footer-->
+
+	<script src="js/jquery-1.8.3.min.js"></script>
+    <script src="js/highcharts.js"></script>
+    <script src="js/highcharts-3d.js"></script>
+    <script src="js/exporting.js"></script>
+    <script src="js/highcharts-zh_CN.js"></script>
+    <script src="js/time.js"></script>
+    <script src="js/adaptive-version2.js"></script>
+    <script src="js/main_t.js"></script>
+    <script type="text/javascript">
+	//重庆市江津区石蟆镇-蟆城供销社-水稻土壤温度监测
+	Highcharts.setOptions({
+				global: {
+					useUTC: false
+				}
+			});
+			function activeLastPointToolip(chart) {
+				var points = chart.series[0].points;
+				chart.tooltip.refresh(points[points.length -1]);
+			}
+			$('#container_st').highcharts({
+				chart: {
+					backgroundColor:'rgba(5, 14, 29, 0)',
+					type: 'spline',
+					animation: Highcharts.svg, // don't animate in old IE
+					marginRight: 10,
+					events: {
+						load: function () {
+							// set up the updating of the chart each second
+							var series = this.series[0],
+								chart = this;
+							setInterval(function () {
+								var x = (new Date()).getTime(), // current time
+									y = Math.random();
+								series.addPoint([x, y], true, true);
+								activeLastPointToolip(chart)
+							}, 2000);
+						}
+					}
+				},
+				title: {
+					text: '重庆市江津区石蟆镇-蟆城供销社基地-水稻土壤温度监测',
+					style:{color:'#fff'}
+				},
+				colors: [ '#fffc00'],
+				credits:{
+				  enabled:false
+					   },
+				xAxis: {
+					labels:{
+							style:{
+								color:'#a9a9a9'
+							}
+						},
+					type: 'datetime',
+					tickPixelInterval: 150
+				},
+				yAxis: {
+					labels:{
+							style:{
+								color:'#a9a9a9'
+							}
+						},
+					title: {
+						text: '温度 (°C)',
+						style:{color:'#a9a9a9'}
+					},
+					plotLines: [{
+						value: 0,
+						width: 1,
+						color: '#808080'
+					}]
+				},
+				tooltip: {
+					formatter: function () {
+						return '<b>' + this.series.name + '</b><br/>' +
+							Highcharts.dateFormat('%Y-%m-%d %H:%M:%S', this.x) + '<br/>' +
+							Highcharts.numberFormat(this.y, 2)+'(°C)';
+					}
+				},
+				legend: {
+					enabled: false
+				},
+				exporting: {
+					enabled: false
+				},
+				series: [{
+					name: '水稻土壤温度',
+					data: (function () {
+						// generate an array of random data
+						var data = [],
+							time = (new Date()).getTime(),
+							i;
+						for (i = -19; i <= 0; i += 1) {
+							data.push({
+								x: time + i * 1000,
+								y: Math.random()
+							});
+						}
+						return data;
+					}())
+				}]
+			}, function(c) {
+				activeLastPointToolip(c)
+	});
+	
+	//重庆市江津区石蟆镇-蟆城供销社-荔枝土壤温度监测
+	Highcharts.setOptions({
+				global: {
+					useUTC: false
+				}
+			});
+			function activeLastPointToolip(chart) {
+				var points = chart.series[0].points;
+				chart.tooltip.refresh(points[points.length -1]);
+			}
+			$('#container_lt').highcharts({
+				chart: {
+					backgroundColor:'rgba(5, 14, 29, 0)',
+					type: 'spline',
+					animation: Highcharts.svg, // don't animate in old IE
+					marginRight: 10,
+					events: {
+						load: function () {
+							// set up the updating of the chart each second
+							var series = this.series[0],
+								chart = this;
+							setInterval(function () {
+								var x = (new Date()).getTime(), // current time
+									y = Math.random();
+								series.addPoint([x, y], true, true);
+								activeLastPointToolip(chart)
+							}, 2000);
+						}
+					}
+				},
+				title: {
+					text: '重庆市江津区石蟆镇-蟆城供销社基地-荔枝土壤温度监测',
+					style:{color:'#fff'}
+				},
+				colors: [ '#ffa600'],
+				credits:{
+				  enabled:false
+					   },
+				xAxis: {
+					labels:{
+							style:{
+								color:'#a9a9a9'
+							}
+						},
+					type: 'datetime',
+					tickPixelInterval: 150
+				},
+				yAxis: {
+					labels:{
+							style:{
+								color:'#a9a9a9'
+							}
+						},
+					title: {
+						text: '温度 (°C)',
+						style:{color:'#a9a9a9'}
+					},
+					plotLines: [{
+						value: 0,
+						width: 1,
+						color: '#808080'
+					}]
+				},
+				tooltip: {
+					formatter: function () {
+						return '<b>' + this.series.name + '</b><br/>' +
+							Highcharts.dateFormat('%Y-%m-%d %H:%M:%S', this.x) + '<br/>' +
+							Highcharts.numberFormat(this.y, 2)+'(°C)';
+					}
+				},
+				legend: {
+					enabled: false
+				},
+				exporting: {
+					enabled: false
+				},
+				series: [{
+					name: '荔枝土壤温度',
+					data: (function () {
+						// generate an array of random data
+						var data = [],
+							time = (new Date()).getTime(),
+							i;
+						for (i = -19; i <= 0; i += 1) {
+							data.push({
+								x: time + i * 1000,
+								y: Math.random()
+							});
+						}
+						return data;
+					}())
+				}]
+			}, function(c) {
+				activeLastPointToolip(c)
+	});
+
+    </script>
+
+</body>
+
+</html>
+
+​

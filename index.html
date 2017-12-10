@@ -1,0 +1,92 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8"><link rel="icon" href="https://static.jianshukeji.com/highcharts/images/favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+*{margin:0;apdding:0;list-style:none;}
+.clear{clear:both;}
+body{background:url("images/backpic.jpg") no-repeat;background-size:cover;font-family:"Microsoft Yahei";color:#fff;height:10.80rem;}
+/*data_top*/
+.data_top{position:relative;}
+.data_top h1{text-align:center;font-size:0.65rem;font-weight:normal;line-height:1.35rem;}
+.data_top .d_timebox{position:absolute;top:0.5rem;left:0.3rem;}
+.data_top .d_timebox img{float:left;}
+.data_top .d_timebox #localtime{font-size:0.16rem;line-height:0.45rem;padding:0 0.1rem;}
+
+/*data table*/
+.data_content .d_table{width:9rem;height:400px;float:left;margin:0.3rem 0 0 0.38rem;background:rgba(0, 0, 0, 0.1);border-radius:0.03rem;padding:0.05rem 0 0 0;}
+
+/*footer*/
+.footer{font-size:0.14rem;color:#7c6df5;margin:0.3rem 0 0 0.35rem;float:left;}
+.footer span a{color:#a295ff;}
+
+</style>
+    <script src="js/main_t.js"></script>
+
+
+</head>
+
+<body>
+	<!--top start-->
+	<div class="data_top">
+    	<h1>重庆市江津区石蟆镇-蟆城供销社基地-数据监测</h1>
+        <div class="d_timebox">
+            <img src="images/clock.png" alt="time" width="45" height="45" />
+            <span id="localtime">2017-06-20 10:42:31</span>
+        </div>
+
+    </div>
+    <!--end top-->
+    
+    <!--start data_content-->
+    <div class="data_content">
+
+        <!--d_table 空气温湿度start-->
+        <div class="d_table">
+            <div id="container2"></div>
+        </div>
+        <!--end d_table-->
+        
+        <!--d_table  二氧化碳、光照强度start-->
+        <div class="d_table">
+            <div id="container1"></div>
+        </div>
+
+        <!--d_table  PM2.5start-->
+        <div class="d_table">
+            <div id="container"></div>
+        </div>
+
+        <!--d_table  荔枝土壤温度start-->
+        <div class="d_table">
+            <div id="container3"></div>
+        </div>
+        <!--end d_table-->
+        
+        <div class="clear"></div>
+
+    </div>
+    <!--end data_content-->
+
+    <!--footer start-->
+    <div class="footer">
+        <span>直播动态  DataView 提供运营动态直播、数据综合展示、设备监控预警等多种场景模板，稍加修改就能够直接服务于您的可视化需求。<a>数据来源: 透明云农场基地大数据平台</a></span>
+    </div>
+    <!--end footer-->
+
+	<script src="js/jquery-1.8.3.min.js"></script>
+    <script src="js/highcharts.js"></script>
+    <script src="js/highcharts-3d.js"></script>
+    <script src="js/exporting.js"></script>
+    <script src="js/highcharts-zh_CN.js"></script>
+    <script src="js/time.js"></script>
+    <script src="js/adaptive-version2.js"></script>
+    <script src="js/main_t.js"></script>
+
+</body>
+
+</html>
+
+​

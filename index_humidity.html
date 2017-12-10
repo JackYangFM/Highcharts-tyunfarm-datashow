@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8"><link rel="icon" href="https://static.jianshukeji.com/highcharts/images/favicon.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+*{margin:0;apdding:0;list-style:none;}
+.clear{clear:both;}
+body{background-image:linear-gradient(#0d0933 15%, #3c2aec 80%);font-family:"Microsoft Yahei";color:#fff;}
+/*data_top*/
+.data_top{position:relative;}
+.data_top h1{text-align:center;font-size:0.65rem;font-weight:normal;line-height:1.35rem;}
+.data_top .d_timebox{position:absolute;top:0.5rem;left:0.3rem;}
+.data_top .d_timebox img{float:left;}
+.data_top .d_timebox #localtime{font-size:0.16rem;line-height:0.45rem;padding:0 0.1rem;}
+
+/*data table*/
+.data_content .d_table{height:8.6rem;margin:0.2rem;}
+
+/*footer*/
+.footer{font-size:0.14rem;color:#7c6df5;margin:0 0 0 0.35rem;}
+.footer span a{color:#a295ff;}
+
+</style>
+
+
+</head>
+
+<body>
+	<!--top-->
+	<div class="data_top">
+    	<h1>重庆市江津区石蟆镇-蟆城供销社基地-土壤湿度</h1>
+        <div class="d_timebox">
+            <img src="images/clock.png" alt="time" width="45" height="45" />
+            <span id="localtime">2017-06-20 10:42:31</span>
+        </div>
+    </div>
+    <!--end top-->
+    
+    <!--data_content start-->
+    <div class="data_content">
+
+        <!--d_table line_chart start-->
+        <div class="d_table">
+            <div id="container_T" style="height:100%"></div>
+        </div>
+        <!--end d_table line_chart-->
+
+    </div>
+    <!--end data_content-->
+
+    <!--footer start-->
+    <div class="footer">
+        <span>直播动态  DataView 提供运营动态直播、数据综合展示、设备监控预警等多种场景模板，稍加修改就能够直接服务于您的可视化需求。<a>数据来源: 透明云农场基地大数据平台</a></span>
+    </div>
+    <!--end footer-->
+
+	<script src="js/jquery-1.8.3.min.js"></script>
+    <script src="js/highcharts.js"></script>
+    <script src="js/highcharts-3d.js"></script>
+    <script src="js/exporting.js"></script>
+    <script src="js/highcharts-zh_CN.js"></script>
+    <script src="js/time.js"></script>
+    <script src="js/adaptive-version2.js"></script>
+    <script src="js/main_t.js"></script>
+    
+    <script type="text/javascript">
+        //重庆市江津区石蟆镇-蟆城供销社-土壤湿度监测
+        $(function () {
+            $('#container_T').highcharts({
+                chart: {
+                    type: 'line',
+                    backgroundColor:'rgba(5, 14, 29, 0)'//去背景
+                },
+                title: {
+                    text: '重庆市江津区石蟆镇-蟆城供销社基地-土壤湿度监测',
+                    style:{color:'#fff'}
+                },
+                colors: ['#64E572', '#FF9655', '#FFF263', '#6AF9C4'],//曲线颜色
+                credits:{
+                    enabled:false
+                },//去掉右下角版权
+                exporting: {
+                    enabled:false
+                },//去掉右上角选项
+                xAxis: {
+                    labels:{
+                        style:{
+                            color:'#a9a9a9'
+                        }
+                    },//x轴数值颜色
+                    categories: ['0点', '1点', '2点', '3点', '4点', '5点', '6点', '7点', '8点', '9点', '10点', '11点','12点','13点', '14点', '15点', '16点', '17点', '18点', '19点', '20点', '21点', '22点', '23点']
+                },
+                yAxis: {
+                    title: {
+                        text: '湿度 (H%)',
+                        style:{color:'#bbb'}
+                    },
+                    labels:{
+                        style:{
+                            color:'#a9a9a9'
+                        }
+                    }//y轴数值颜色
+                },
+                legend: {
+                    itemStyle:{
+                        color:'#bbb'
+                    }
+                },//x轴选项字体颜色
+                plotOptions: {
+                    line: {
+                        dataLabels: {
+                            enabled: true,
+                            color: '#fff',//坐标上的文字颜色
+                            connectorColor: '#fff'//坐标上的文字颜色
+                        },
+                        enableMouseTracking: false // 关闭鼠标跟踪，对应的提示框、点击事件会失效
+                    }
+                },
+                series: [{
+                    name: '水稻',
+                    data: [7.0, 6.9, 9.5, 14.5, 18.4, 21.5, 22.2, 21.5, 20.3, 18.3, 13.9, 16,20, 20.3, 13.5, 14.5, 18.4, 21.5, 23.2, 12.5, 23.9, 18.3, 13.9, 5.3]
+                }, {
+                    name: '荔枝',
+                    data: [3.9, 4.2, 5.7, 8.5, 11.9, 15.2, 17.0, 16.6, 14.2, 10.3, 6.6, 10.8,7.0,9.0, 6.9, 9.5, 14.5, 18.4, 21.5, 23.2, 22, 21.3, 18.3, 13.9]
+                }]
+            });
+        });
+    </script>
+
+</body>
+
+</html>
+
+​

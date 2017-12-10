@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6f25fc4-a86d-4595-a283-891c12806903" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://E:/Web/2017.11.29江津大数据移动端网页/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="797">
+              <caret line="167" column="0" lean-forward="true" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gs</find>
+      <find>allmap</find>
+      <find>TextIconOverlay</find>
+      <find>up_mid</find>
+      <find>map</find>
+      <find>company_map</find>
+      <find>com_list</find>
+      <find>up_text</find>
+      <find>最有帮助的评价</find>
+      <find>.sub_bar_content .con_container .con_left ul li</find>
+      <find>.pro_sub_bar .sub_bar_content .con_title</find>
+      <find>.sub_bar_content .con_container .con_right</find>
+      <find>最新评价测试测试</find>
+      <find>.pro_sub_bar .sub_bar_content</find>
+      <find>l_user_name_info</find>
+      <find>为你推荐</find>
+      <find>m-hdL</find>
+      <find>评价晒单</find>
+      <find>pro_sub_bar</find>
+      <find>.pro_sub_bar</find>
+      <find>con_left</find>
+      <find>con_test_right</find>
+      <find>com_title</find>
+      <find>container8</find>
+      <find>.data_container .con_test_right .ctr_box .tr_up a</find>
+      <find>.container .c_content ul li .cc_name</find>
+      <find>tr_down</find>
+      <find>select1</find>
+      <find>showInfo</find>
+      <find>trd_list</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../../小米商城模板/pro_list.html" />
+        <option value="$PROJECT_DIR$/../../04-常用web效果/01-youku - a/youku.html" />
+        <option value="$PROJECT_DIR$/../../../小米商城模板/pro_detail.html" />
+        <option value="$PROJECT_DIR$/../../../小米商城模板/css/mod.css" />
+        <option value="$PROJECT_DIR$/../../../2017.10.24重庆江津区富硒数据展示平台/demo.html" />
+        <option value="$PROJECT_DIR$/../../demo.html" />
+        <option value="$PROJECT_DIR$/../../../2017.10.24重庆江津区富硒数据展示平台/js/focus.js" />
+        <option value="$PROJECT_DIR$/../../../2017.10.24重庆江津区富硒数据展示平台/js/left_pic.js" />
+        <option value="$PROJECT_DIR$/../../../2017.10.24重庆江津区富硒数据展示平台/index.html" />
+        <option value="$PROJECT_DIR$/../../../2017.10.24重庆江津区富硒数据展示平台/css/main.css" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/baidumap.js" />
+        <option value="$PROJECT_DIR$/../../../2017.10.24重庆江津区富硒数据展示平台/map/Item.html" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/css/1.js" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/companylistmap.js" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/productlistmap.js" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/qyfb_map.js" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/product.html" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/profb_map.js" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/testcenter.js" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/time.js" />
+        <option value="$PROJECT_DIR$/../../../2017.10.19道地乡土网上商城/css/style.css" />
+        <option value="$PROJECT_DIR$/../../../2017.10.19道地乡土网上商城/pro_detail.html" />
+        <option value="$PROJECT_DIR$/../../../2017.10.19道地乡土网上商城/buySuccess.html" />
+        <option value="$PROJECT_DIR$/../../../2017.10.19道地乡土网上商城/css/mod.css" />
+        <option value="$PROJECT_DIR$/../../../2017.10.19道地乡土网上商城/commentList.html" />
+        <option value="$PROJECT_DIR$/../2017.11.07江津区富硒农产品大数据展示平台WEB端/townIntro.html" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/css/main.css" />
+        <option value="$PROJECT_DIR$/../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/testcenter.js" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/testcenter.html" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/index.html" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/chart.js" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/townIntro.html" />
+        <option value="$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/townIntro.js" />
+        <option value="$PROJECT_DIR$/../../../2017.11.28江津区富硒农产品大数据展示平台WEB端/js/townIntro.js" />
+        <option value="$PROJECT_DIR$/../../../2017.11.28江津区富硒农产品大数据展示平台WEB端/js/testcenter.js" />
+        <option value="$PROJECT_DIR$/../../../2017.11.28江津区富硒农产品大数据展示平台WEB端/testcenter.html" />
+        <option value="$PROJECT_DIR$/../../../2017.11.28江津区富硒农产品大数据展示平台WEB端/css/main.css" />
+        <option value="$PROJECT_DIR$/../../../2017.11.29江津大数据移动端网页/js/adaptive.js" />
+        <option value="$PROJECT_DIR$/../../../2017.11.29江津大数据移动端网页/index.html" />
+        <option value="E:/Web/2017.11.29江津大数据移动端网页/js/testcenter.js" />
+        <option value="$PROJECT_DIR$/../2017.11.28江津区富硒农产品大数据展示平台WEB端/js/townIntro.js" />
+        <option value="E:/Web/2017.11.29江津大数据移动端网页/5555.html" />
+        <option value="$PROJECT_DIR$/../../../centermenu-master8160201706191849/centermenu-master/index.html" />
+        <option value="E:/Web/2017.11.29江津大数据移动端网页/js/chart.js" />
+        <option value="E:/Web/2017.11.29江津大数据移动端网页/i_pro.html" />
+        <option value="E:/Web/2017.11.29江津大数据移动端网页/css/main.css" />
+        <option value="E:/Web/2017.11.29江津大数据移动端网页/js/townIntro.js" />
+        <option value="E:/Web/2017.11.29江津大数据移动端网页/i_test.html" />
+        <option value="E:/Web/2017.11.29江津大数据移动端网页/index.html" />
+        <option value="E:/Web/2017.11.29江津大数据移动端网页/js/town_map.js" />
+        <option value="E:/Web/2017.11.29江津大数据移动端网页/i_town.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="04.2017.06.27透明云农场数据展示" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="04.2017.06.27透明云农场数据展示" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6f25fc4-a86d-4595-a283-891c12806903" name="Default" comment="" />
+      <created>1499345468664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499345468664</updated>
+      <workItem from="1499345472541" duration="2671000" />
+      <workItem from="1499647263449" duration="2193000" />
+      <workItem from="1499839031604" duration="8340000" />
+      <workItem from="1499905743060" duration="339000" />
+      <workItem from="1499906115159" duration="948000" />
+      <workItem from="1499932161324" duration="103000" />
+      <workItem from="1500860274135" duration="1361000" />
+      <workItem from="1501055419961" duration="1626000" />
+      <workItem from="1501480188678" duration="3364000" />
+      <workItem from="1501570344082" duration="5825000" />
+      <workItem from="1503976084642" duration="48000" />
+      <workItem from="1504071388897" duration="12155000" />
+      <workItem from="1504229003560" duration="16955000" />
+      <workItem from="1504485762863" duration="3857000" />
+      <workItem from="1504492862799" duration="1011000" />
+      <workItem from="1505193739319" duration="3514000" />
+      <workItem from="1505716831526" duration="3411000" />
+      <workItem from="1505786972281" duration="1273000" />
+      <workItem from="1506305140858" duration="2110000" />
+      <workItem from="1506666750607" duration="32000" />
+      <workItem from="1508288029044" duration="9770000" />
+      <workItem from="1508373896347" duration="19287000" />
+      <workItem from="1508401615077" duration="53000" />
+      <workItem from="1508403537490" duration="121000" />
+      <workItem from="1508460177524" duration="19867000" />
+      <workItem from="1508718959555" duration="26738000" />
+      <workItem from="1508823938047" duration="7821000" />
+      <workItem from="1508893217418" duration="20259000" />
+      <workItem from="1508978773085" duration="1445000" />
+      <workItem from="1510102984411" duration="22184000" />
+      <workItem from="1510139648726" duration="7634000" />
+      <workItem from="1510187924832" duration="1399000" />
+      <workItem from="1510190454649" duration="2040000" />
+      <workItem from="1510539754646" duration="3639000" />
+      <workItem from="1510715836067" duration="3563000" />
+      <workItem from="1510793029799" duration="9093000" />
+      <workItem from="1510879596681" duration="17517000" />
+      <workItem from="1511156467267" duration="11736000" />
+      <workItem from="1511225045520" duration="18192000" />
+      <workItem from="1511313601247" duration="6653000" />
+      <workItem from="1511397897098" duration="1898000" />
+      <workItem from="1511764383947" duration="24277000" />
+      <workItem from="1511916791876" duration="9844000" />
+      <workItem from="1511944254442" duration="7012000" />
+      <workItem from="1512002636919" duration="27599000" />
+      <workItem from="1512088950921" duration="8529000" />
+      <workItem from="1512438612166" duration="5900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="365206000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12135417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../2017.10.19道地乡土网上商城/pro_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="858" column="21" lean-forward="false" selection-start-line="858" selection-start-column="21" selection-end-line="858" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../2017.10.19道地乡土网上商城/buySuccess.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1166">
+          <caret line="390" column="22" lean-forward="false" selection-start-line="390" selection-start-column="22" selection-end-line="390" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../2017.10.19道地乡土网上商城/css/mod.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4532">
+          <caret line="206" column="67" lean-forward="false" selection-start-line="206" selection-start-column="67" selection-end-line="206" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../2017.10.19道地乡土网上商城/commentList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="443" column="39" lean-forward="true" selection-start-line="443" selection-start-column="39" selection-end-line="443" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../2017.11.07江津区富硒农产品大数据展示平台WEB端/townIntro.html" />
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/time.js" />
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/texticonoverlay.js" />
+    <entry file="file://$PROJECT_DIR$/../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11294">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/testcenter.html" />
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/index.html" />
+    <entry file="file://$PROJECT_DIR$/../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/testcenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="113" column="3" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="113" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/chart.js" />
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/js/townIntro.js" />
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.07江津区富硒农产品大数据展示平台WEB端/townIntro.html" />
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.28江津区富硒农产品大数据展示平台WEB端/js/testcenter.js" />
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.28江津区富硒农产品大数据展示平台WEB端/js/chart.js" />
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.28江津区富硒农产品大数据展示平台WEB端/js/townIntro.js" />
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.28江津区富硒农产品大数据展示平台WEB端/townIntro.html" />
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.28江津区富硒农产品大数据展示平台WEB端/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.28江津区富硒农产品大数据展示平台WEB端/testcenter.html" />
+    <entry file="file://$PROJECT_DIR$/../2017.11.28江津区富硒农产品大数据展示平台WEB端/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="145" column="52" lean-forward="true" selection-start-line="145" selection-start-column="52" selection-end-line="145" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../2017.11.28江津区富硒农产品大数据展示平台WEB端/css/industry_map.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.29江津大数据移动端网页/js/adaptive.js" />
+    <entry file="file://E:/Web/2017.11.29江津大数据移动端网页/js/adaptive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="115" column="32" lean-forward="true" selection-start-line="115" selection-start-column="32" selection-end-line="115" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.29江津大数据移动端网页/index.html" />
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.29江津大数据移动端网页/js/chart.js" />
+    <entry file="file://$PROJECT_DIR$/../../../2017.11.29江津大数据移动端网页/i_pro.html" />
+    <entry file="file://$PROJECT_DIR$/../2017.11.28江津区富硒农产品大数据展示平台WEB端/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="67" column="4" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="77" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../2017.11.28江津区富硒农产品大数据展示平台WEB端/testcenter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="92" column="35" lean-forward="false" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../2017.11.28江津区富硒农产品大数据展示平台WEB端/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="49" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../2017.11.28江津区富硒农产品大数据展示平台WEB端/js/townIntro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/07_Resume&amp;Works杨水生—UI设计师面试作品及简历2016.05.23/03_代码作品/04_兰博基尼代码作品/index.html" />
+    <entry file="file://E:/Web/2017.11.29江津大数据移动端网页/5555.html" />
+    <entry file="file://$PROJECT_DIR$/../../../centermenu-master8160201706191849/centermenu-master/index.html" />
+    <entry file="file://$PROJECT_DIR$/../../../centermenu-master8160201706191849/centermenu-master/js/centermenu.js" />
+    <entry file="file://$PROJECT_DIR$/../../../centermenu-master8160201706191849/centermenu-master/js/toast.js" />
+    <entry file="file://$PROJECT_DIR$/../../../透明农场index/product_introduction.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../透明农场index/files.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9147">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../透明农场index/pop_up_box.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Web/2017.11.29江津大数据移动端网页/js/chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7964">
+          <caret line="362" column="26" lean-forward="true" selection-start-line="362" selection-start-column="26" selection-end-line="362" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Web/2017.11.29江津大数据移动端网页/i_pro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Web/2017.11.29江津大数据移动端网页/js/townIntro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2684">
+          <caret line="122" column="29" lean-forward="false" selection-start-line="122" selection-start-column="29" selection-end-line="122" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Web/2017.11.29江津大数据移动端网页/js/testcenter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="151" column="47" lean-forward="true" selection-start-line="151" selection-start-column="47" selection-end-line="151" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Web/2017.11.29江津大数据移动端网页/i_test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="163" column="33" lean-forward="true" selection-start-line="163" selection-start-column="33" selection-end-line="163" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Web/2017.11.29江津大数据移动端网页/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="57" column="8" lean-forward="true" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Web/2017.11.29江津大数据移动端网页/js/town_map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Web/2017.11.29江津大数据移动端网页/js/profb_map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Web/2017.11.29江津大数据移动端网页/i_town.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="75" column="10" lean-forward="true" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+          <folding>
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Web/2017.11.29江津大数据移动端网页/js/texticonoverlay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4224">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Web/2017.11.29江津大数据移动端网页/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="797">
+          <caret line="167" column="0" lean-forward="true" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
